@@ -1,0 +1,25 @@
+{
+  "name": "MochaFun",
+  "version": "1.0.0",
+  "description": "Learning JavaScript with Mocha and Chai",
+  "main": "app.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luketlancaster/MochaFun.git"
+  },
+  "author": "Luke <luketlancaster@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luketlancaster/MochaFun/issues"
+  },
+  "homepage": "https://github.com/luketlancaster/MochaFun"
+}
